@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T06:55:41.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.6" etag="nV8PEfHJAJw14bFGG-WH" type="github"><diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">7Vpbc6M2FP41nmkfugPi/pj1JulD09mp2+2zYmRQIyMqRLD311cCydx8STx4MW6ch0gHcSR933fEkWBmzdebRwbT+ImGiMyAEW5m1pcZAKZt2eKftGwrix0ElSFiOFSNasMCf0fKaChrjkOUtRpySgnHadu4pEmClrxlg4zRot1sRUm71xRGqGdYLCHR1k9Obf8bhzxWdtMN6gu/IhzFqnMfuNWFZ7h8iRjNE9XjDFir8lddXkPtS001i2FIi4bJup9Zc0Ypr0rrzRwRia4GTt/Ht3q0M+tzzNdEVExRLC8/HLjZfMvNYnIMJbzZ3SF/FjS9lblEjmOYwAnhL6qDV0hy1cGCrnghHArrnCacUdIbQxFjjhYpXMp6ISTVHtQOIllZCR9KMGJsoo4JmVNCWenKWjnyT94kenpBjStu+dtd0axKAEKYxSg8CIGeE2IcbRomBckjomvE2VY0UVe9wKtuUfK3bBUPRUNKjiIybqjIVTao9BvtXNcciIKi4a2UWD3AUSjkrqqIPNPivjZ8LsVbwmF0eOCQ8TsZXsKQ0ARp2wOWoymb/4M43yp+YM6pMFHGYxrRBJLfKE37NJq+qJejEBUJMhaBeIyIjOZsiQ7MFqjlArII8QNtFBsShaN0MkQgx6/tpWJYbuwPbtptnOvhxvngpt3GvR5u3A9u2m286+HGmwA35xGh89OjTIChmShvFTjAbaNBSnHCs4bnr9JQ5yCB0c5BPMfusFp5rDneDe082kEv85vnGadriWmB+TIWhSfIGd7MgEu4TLvwqyhGvKSjMj2zrkWMY0+7humnyrvYLoB5uSXIU4KYqq3xBrGqCNepMkLOUZJX5SwlWFRZ9vOhDofJVUvRvT9XHSIZ9dtCsJ09yai3JxkF/iWyUbu/QUjFFo7lUih3Imi33yVjU0fdNKwO7Pv2AOBH7QGcHuq/I15Q9nLboDtgTNDdHuhfaSFxNp4Qv0m8XWNMvL0e3g8M/fupPHjI5bPx9vD2x8R7z1HU9SV6gyXh/mRSP8/prILmhVM/vxd438QjncqVboEjwY8oPKIEMVgapx6GTnDmo3135jdsGPYPdW84DIMxwvBsboJeZNz9ISZuSI8iDaChDJFqujcXFq415sNJb9Ub0H/568/po+wFgX45pXf23h6cbWfP8gMuArT/f1p+TP068tj6o7V3BQuQHm8zDOS5h96JLPI0JRhl0w+M7vLjj7oXAWACUXFmCIx3CNo/5exsiDy9IdIuqpmou2o+TzuyO46q2fYcvftYFhw9lr2CY9wpvC0+KNxL683vHKbunr3v1VvPkXUZvfX6OaG3E+0voLcpvAEfT2/OCZm8WW9dR13hDqW3bj/v1Zt7ab1N4a3+eHrrPgbP1lvX0aX01u3nlN7cH623KXypMJ7ezKH01nV0Kb11+zmlN3tQvYlq/Wlo1bz+Ate6/w8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-12T07:46:12.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WAp8MC_HHMzdaSZgZF17" version="14.6.6" type="github">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="1108" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-1" value="Component&lt;br&gt;File&lt;br&gt;xxx.Vue&lt;br&gt;&lt;br&gt;역활 및 책임&lt;br&gt;&lt;br&gt;- aixos 호출&lt;br&gt;- data저장&lt;br&gt;- 화면 렌더링&amp;nbsp;&lt;br&gt;- DOM Event handleing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1040" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.437;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uRPZMDTlmhsTQCQ24-Lw-2" target="uRPZMDTlmhsTQCQ24-Lw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRPZMDTlmhsTQCQ24-Lw-2" target="uRPZMDTlmhsTQCQ24-Lw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRPZMDTlmhsTQCQ24-Lw-2" target="uRPZMDTlmhsTQCQ24-Lw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRPZMDTlmhsTQCQ24-Lw-2" target="uRPZMDTlmhsTQCQ24-Lw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-2" value="Component&lt;br&gt;File&lt;br&gt;xxx.Vue&lt;br&gt;&lt;br&gt;역활 및 책임&lt;br&gt;&lt;br&gt;- 화면 렌더링&amp;nbsp;&lt;br&gt;- DOM Event handleing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-3" value="/data&lt;br&gt;&lt;br&gt;- static 한 data저장" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-4" value="/store /state&lt;br&gt;&lt;br&gt;- axios 호출 값&lt;br&gt;- 전역 data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-5" value="/api /service&lt;br&gt;&lt;br&gt;- axios 호출 및&amp;nbsp; &lt;br&gt;- 에러 헨들링&lt;br&gt;- interceptors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-6" value="props&lt;br&gt;&lt;br&gt;- axios 호출 값&lt;br&gt;- 전역 data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRPZMDTlmhsTQCQ24-Lw-17" target="uRPZMDTlmhsTQCQ24-Lw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-17" value="/store /action&lt;br&gt;&lt;br&gt;- store state조작&lt;br&gt;- service 호출" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-21" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;perimeterSpacing=20;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uRPZMDTlmhsTQCQ24-Lw-22" value="Store" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;glass=0;strokeWidth=2;opacity=30;base=0;position2=0.43;" vertex="1" parent="1">
+          <mxGeometry x="540" width="70" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
